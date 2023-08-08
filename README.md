@@ -16,7 +16,7 @@ chmod +x nashscan.sh
 
 ```
 
-Run it:
+usage:
 ```
 ./nashscan.sh
 
